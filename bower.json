@@ -1,0 +1,16 @@
+{
+  "name": "cheetah-bootstrap-theme",
+  "version": "0.0.1",
+  "homepage": "https://github.com/LarsVonQualen/cheetah-bootstrap-theme",
+  "authors": [
+    "Lars von Qualen <larsvonqualen@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

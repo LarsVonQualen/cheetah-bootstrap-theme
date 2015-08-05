@@ -1,0 +1,24 @@
+{
+  "name": "cheetah-bootstrap-theme",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LarsVonQualen/cheetah-bootstrap-theme.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LarsVonQualen/cheetah-bootstrap-theme/issues"
+  },
+  "homepage": "https://github.com/LarsVonQualen/cheetah-bootstrap-theme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-less": "^3.0.3",
+    "gulp-sourcemaps": "^1.5.2"
+  }
+}

@@ -12,5 +12,11 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "main": [
+    "src/cheetah.less"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5"
+  }
 }

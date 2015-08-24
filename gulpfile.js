@@ -3,7 +3,7 @@ var gulp = require("gulp"),
     sourcemaps = require("gulp-sourcemaps");
 
 gulp.task("transpile-less", function () {
-  return gulp.src("./src/cheetah.less")
+  return gulp.src("./test_sink.less")
     .pipe(sourcemaps.init())
     .pipe(less())
     .pipe(sourcemaps.write("./"))
